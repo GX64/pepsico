@@ -1,5 +1,5 @@
 <template>
-  <h1><b>PEPSICO</b></h1>
+  <h1><b>(not) PEPSICO</b></h1>
   <a href="">Home</a>
   <a href="">Distributor information</a>
   <a href="">Summary</a>

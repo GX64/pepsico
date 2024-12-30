@@ -10,6 +10,7 @@ import NavBar from './components/NavBar.vue';
     </header>
 
     <main>
+      <p>This is a site I made for the Forage PepsiCo Advanced Software Engineering job simulation. This website is not affiliated with or endorsed by PepsiCo.</p>
       <h2>Distributor information</h2>
       <br>
       <DistributorTable />
